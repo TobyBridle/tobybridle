@@ -20,7 +20,7 @@ I guess I can list a few
 #### Stackz
 - A shunting-yard compiler for a stack-based language. Compiles for ARM64 assembly. Find it [here](https://github.com/tobybridle/stakz-lang)
 #### My Blog
-- A blog page made using Gatsby & GraphQL. Find it **[here (deployment)](https://blog.bridle.ml/explore)** and **[here (repo)](https://github.com/tobybridle/ReactBlog)**
+- A blog page made using Gatsby & GraphQL. Find it ~~**[here (deployment)](https://blog.bridle.ml/explore)**~~ oh. Something is wrong with the domain so forget about that deployed version for a while. Still, you can find the code **[here (repo)](https://github.com/tobybridle/ReactBlog)**
 #### Todo
 - A persistent Todo CLI made in Rust. Find it [here](https://github.com/tobybridle/todo)
 #### Neovim Config
