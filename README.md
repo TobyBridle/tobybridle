@@ -8,8 +8,7 @@
 
 
 ### 🧠 To-be-confirmed projects left in my brain
-- **~~`(REDACTED)`~~**  
-An imaginary scraper site, similar to __[Saikou](https://github.com/saikou-app/saikou)__, using NextJS, Typescript and Tailwind as a way to get back into the frontend
+- REST API built in Rust to retrieve web-scraped data
 
 
 ### 🏁 My Projects
